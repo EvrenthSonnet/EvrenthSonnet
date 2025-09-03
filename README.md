@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 30天成长计划：靠近AI的每一步
+  30天计划：靠近AI的每一步
 
 <div align="center">
 
   
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=每一天都在变强;Claude协同，提升代码能力)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=每一天都在变强)
 
 ![Progress](https://img.shields.io/badge/学习进度-Day%2012/30-brightgreen?style=for-the-badge)
 
