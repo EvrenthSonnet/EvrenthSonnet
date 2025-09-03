@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvrenthSonnet&show_icons=true&theme=tokyonight)
   30天计划：靠近AI的每一步
 
 <div align="center">
