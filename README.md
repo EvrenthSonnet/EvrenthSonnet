@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 实时编程统计（WakaTime自动更新）
+## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
 
@@ -74,7 +74,7 @@ YAML         1 hr 45 mins    ██▓░░░░░░░░░░░░░░
 
 ---
 
-## 🗓️ 手动更新区域（每日5分钟更新）
+## 🗓️每日更新
 
 ###  四周进度概览
 
@@ -90,7 +90,7 @@ YAML         1 hr 45 mins    ██▓░░░░░░░░░░░░░░
 
 ```
 
-###  今日学习记录（手动更新）
+###  今日学习记录
 
 日期：2024年9月3日
 
@@ -120,31 +120,23 @@ YAML         1 hr 45 mins    ██▓░░░░░░░░░░░░░░
 
  今日思考
 
-# - 为什么MixUp在CV领域效果这么好？
 
-# - 能否将这个思想应用到时间序列数据？
 
  明日计划
 
-# - [ ] 实现GradCAM，理解CNN的注意力机制
 
-# - [ ] 《Attention is All You Need》
-
-# - [ ] 整理本周代码，形成个人工具库
 
 ---
 
-##  成就解锁记录
+  成就解锁记录
 
 <div align="center">
 
-# ![Achievement](https://img.shields.io/badge/🎯-96.7%25准确率-gold?style=for-the-badge)
 
-# ![Achievement](https://img.shields.io/badge/🧠-Attention机制-purple?style=for-the-badge)
 
-# ![Achievement](https://img.shields.io/badge/💪-green?style=for-the-badge)
+ ![Achievement](https://img.shields.io/badge/💪-green?style=for-the-badge)
 
-# ![Achievement](https://img.shields.io/badge/🔥-连续学习-orange?style=for-the-badge)
+ ![Achievement](https://img.shields.io/badge/🔥-连续学习-orange?style=for-the-badge)
 
 </div>
 
@@ -152,7 +144,7 @@ YAML         1 hr 45 mins    ██▓░░░░░░░░░░░░░░
 
 <div align="center">
 
-###  每一行代码都是成长的证明
+  每一行代码都是成长的证明
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EvrenthSonnet&color=brightgreen&style=flat-square)
 
