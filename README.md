@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
   
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=)
 
-![Progress](https://img.shields.io/badge/学习进度-Day%2012/30-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/学习进度-Day%0000-brightgreen?style=for-the-badge)
 
-![Current Week](https://img.shields.io/badge/当前阶段-第2周·代码能力提升-blue?style=for-the-badge)
+![Current Week](https://img.shields.io/badge/当前阶段-毕业项目-blue?style=for-the-badge)
 
 </div>
 
