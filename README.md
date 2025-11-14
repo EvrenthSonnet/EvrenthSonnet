@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvrenthSonnet&show_icons=true&theme=tokyonight)
+  
   learning notes on AI
 
 <div align="center">
