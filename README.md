@@ -129,8 +129,6 @@ path:`Verse-Sonnet/Verse-Sonnet/edit/main/learning_notes`
 
 
 ```
-thought of today
-
 
 ---
 
