@@ -124,7 +124,7 @@ Windows                  8 hrs 54 mins       ███████████�
 
 ###  学习记录
 
-path:`Verse-Sonnet/Verse-Sonnet/edit/main/learning_notes`
+path:`Verse-Sonnet/Verse-Sonnet/main/learning_notes`
 
 
 
