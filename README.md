@@ -124,18 +124,10 @@ Windows                  8 hrs 54 mins       ███████████�
 
 ###  学习记录
 
-日期：2024年9月3日
-
- 完成任务
-
-- [x] 实现MixUp数据增强算法
-
-- [x] 理解beta分布在数据增强中的作用  
-
-- [x] debug了维度不匹配问题
+path:`Verse-Sonnet/Verse-Sonnet/edit/main/learning_notes`
 
 
-# thought of today
+
 ```
 thought of today
 
