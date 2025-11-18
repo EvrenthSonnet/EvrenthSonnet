@@ -1,4 +1,4 @@
-## 0. MIL的聚合方式（multiple instance learning,MIL）
+## 0. MIL（multiple instance learning,MIL）
 
 * *single-Label和multi_label MIL在模型的头部(head)和聚合器(aggregator)如何选择设计*
 
