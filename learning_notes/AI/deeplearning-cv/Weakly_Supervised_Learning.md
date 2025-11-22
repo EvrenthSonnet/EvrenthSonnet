@@ -73,7 +73,7 @@
         - **这就是 Scouter 学习的信号！**
           - 因为 Expert 对这 5 个背景 Tile 的预测肯定不支持“病害”标签，
           - Loss 会惩罚 Scouter：“你选的这些区域对于分类没有贡献（贡献率为0），下次选别的区域！”
-       ** - 技术障碍：**不可导的“Crop”操作直接**“选 Top-K 并 Crop”这个动作是离散的，梯度断了。**
+          - **技术障碍：**不可导的“Crop”操作直接**“选 Top-K 并 Crop”这个动作是离散的，梯度断了。**
         - 解决方案：硬注意力（Hard Attention）+ 强化学习（REINFORCE算法）：
           - 把 Scouter 当作 Agent，把“选对了区域导致分类正确”当作 Reward。但这很难训练，不稳定。
           - 推荐：基于分数的加权（Score-based Weighting）。
